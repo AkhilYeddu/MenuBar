@@ -31,7 +31,7 @@ button:active{
 
 }
 h1{
-    font-family:"Madimi One";
+    font-family:"Madimi One",Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(61, 61, 61);
 }
 .para{
